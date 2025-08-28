@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimurree&label=Profile%20views&color=0e75b6&style=flat" alt="rimurree" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimurree" alt="rimurree" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/burreetos" target="blank"><img src="https://img.shields.io/twitter/follow/burreetos?logo=twitter&style=for-the-badge" alt="burreetos" /></a> </p>
 
 - 👋 Hi, I’m @rimurree
